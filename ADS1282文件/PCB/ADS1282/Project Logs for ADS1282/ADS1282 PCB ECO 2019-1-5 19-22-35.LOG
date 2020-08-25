@@ -1,0 +1,10 @@
+Added Component: Designator=P2(HDR1X6)
+Added Pin To Net: NetName=DGND Pin=P2-1
+Added Pin To Net: NetName=AGND Pin=P2-2
+Added Pin To Net: NetName=VCC -2.5V Pin=P2-3
+Added Pin To Net: NetName=VCC 2.5V Pin=P2-4
+Added Pin To Net: NetName=VCC 3.3V Pin=P2-5
+Added Pin To Net: NetName=VCC 5V Pin=P2-6
+Added Member To Class: ClassName=ADS1282 Member=Component P2 Header 6
+Added Room: Name=ADS1282
+Added Room: Name=µÁ‘¥

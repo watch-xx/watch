@@ -1,0 +1,10 @@
+Added Component: Designator=JP4(KF2EDGK5.08-LI-6P)
+Added Pin To Net: NetName=DGND Pin=JP4-1
+Added Pin To Net: NetName=AGND Pin=JP4-2
+Added Pin To Net: NetName=VCC -2.5V Pin=JP4-3
+Added Pin To Net: NetName=VCC 2.5V Pin=JP4-4
+Added Pin To Net: NetName=VCC 3.3V Pin=JP4-5
+Added Pin To Net: NetName=VCC 5V Pin=JP4-6
+Added Member To Class: ClassName=ADS1282 Member=Component JP4 HDR-1X6
+Added Room: Name=ADS1282
+Added Room: Name=µÁ‘¥

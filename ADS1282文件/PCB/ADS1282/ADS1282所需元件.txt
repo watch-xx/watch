@@ -1,0 +1,7 @@
+1.4.096M有源晶振，3225封装，https://detail.tmall.com/item.htm?spm=a230r.1.14.20.67fc5878TtWzQo&id=536268219981&ns=1&abbucket=10
+
+2.tlv76050 5v电源,sot23-3封装，https://item.taobao.com/item.htm?spm=a230r.1.14.45.5ce148f2a4Lz79&id=561770682984&ns=1&abbucket=10#detail
+
+3.tps79225,    2.5v电源，sot23-5封装，https://detail.tmall.com/item.htm?spm=a230r.1.14.15.18226660kIpkwq&id=520946410794&ns=1&abbucket=10
+
+4.tps72325，-2.5v电源，sot23-5封装，https://item.taobao.com/item.htm?spm=a230r.1.14.21.482a1dcbzWFbrW&id=540692376957&ns=1&abbucket=10#detail
